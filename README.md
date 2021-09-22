@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hidhayaths
+- 👀 I’m interested in Java, Python & Javascript front-end backend technologies
+- 🌱 I’m currently learning Python django, django rest framework , angular ,electron & spring boot 
+- 💞️ I’m looking to collaborate on anything from above tech stack
+- 📫 Reach me on hidhayaths@gmail.com
